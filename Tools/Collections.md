@@ -5,3 +5,4 @@
 3. UE4/Unity(Dynamic Bone)
 4. MotionBuilder
 5. 3DsMax/Maya
+6. Dust3D 自动rigging工具
