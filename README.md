@@ -28,7 +28,7 @@
 * Deep Mimic[repo](https://github.com/xbpeng/DeepMimic)
 * P2P-Net [repo](https://github.com/kangxue/P2P-NET)
 * Neural Skinning [demo](https://github.com/FuxiCV/NeuroSkinning)
-
+* Neural Kinematic Networks for Unsupervised Motion Retargetting [repo](https://github.com/rubenvillegas/cvpr2018nkn/)
 
 ### 笔记和总结
 
