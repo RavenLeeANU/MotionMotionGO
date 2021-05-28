@@ -58,8 +58,11 @@ MikuMiku Dance
 用户自制二次元舞蹈动画资源，包含自制，动捕等多种动作资源。目前没有找到有标记好的完整数据集，需要爬取。
 [网址](https://sites.google.com/site/mikumikubeat/motion-data)
 
-ROKOKO
+ROKOKO
 包含表情，手部，身体等动作的Mocap数据提供网站。包含多种不同场景下的资源。但是大部分资源需要付费。
+
+UBI motion matching Dataset
+[repo](https://github.com/ubisoft/Ubisoft-LaForge-Animation-Dataset)
 
 B) 人物模型
 - 支持定制人物的网站上的已有资源和自制资源
@@ -70,10 +73,14 @@ CGTrader，SketchFab
 
 SMPL [site](https://smpl.is.tue.mpg.de/)
 
+
 ### 杂项
 
 - 常用文件格式说明
-[obj](https://github.com/RavenLeeANU/MotionMotionGO/blob/main/Notes/OBJ-file-description.md)
-fbx
-bvh
+  - [obj](https://github.com/RavenLeeANU/MotionMotionGO/blob/main/Notes/OBJ-file-description.md)
+  - fbx
+  - bvh
+
+- 业界
+  - [UBI motion matching](https://montreal.ubisoft.com/en/introducing-learned-motion-matching/)
 
