@@ -73,7 +73,7 @@ SMPL [site](https://smpl.is.tue.mpg.de/)
 ### 杂项
 
 - 常用文件格式说明
-obj
+[obj](https://github.com/RavenLeeANU/MotionMotionGO/blob/main/Notes/OBJ-file-description.md)
 fbx
 bvh
 
