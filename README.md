@@ -72,3 +72,8 @@ SMPL [site](https://smpl.is.tue.mpg.de/)
 
 ### 杂项
 
+- 常用文件格式说明
+obj
+fbx
+bvh
+
