@@ -25,7 +25,7 @@
 * Deep Motion Editing [repo](https://github.com/DeepMotionEditing/deep-motion-editing)
 * Neural Blend Shapes [repo](https://github.com/PeizhuoLi/neural-blend-shapes)
 * MeshCNN [repo](https://github.com/ranahanocka/MeshCNN)
-
+* Deep Mimic[repo](https://github.com/xbpeng/DeepMimic)
 
 ### 笔记和总结
 
