@@ -13,6 +13,7 @@ classmethod 修饰符对应的函数不需要实例化，不需要 self 参数�
 
 ### Parser的写法
 
+```
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -21,6 +22,7 @@ parser.add_argument("--param1",type=str,default="param1",help="this is parma1")
 parser.add_argument("--param2",type=str,default="param2",help="this is parma2") 
 args = parser.parse_args()
 print(args.param2) #直接拿这个输入的名字就可以 不要包含字符，有--和没有是一致的
+```
 
 args.param2还可以二次赋值
 
