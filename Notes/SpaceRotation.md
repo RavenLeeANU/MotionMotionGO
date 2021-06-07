@@ -6,7 +6,7 @@
 
 按照x,y,z的三个轴的旋转进行定义，包括偏航（yaw）、俯仰 (pitch) 和滚动 (roll) 三个分量按照一定的顺序进行旋转的**过程**。
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RavenLeeANU/MotionMotionGO/blob/main/Images/pitch.png)
 
 欧拉角表示法存在的问题是【万向节的死锁】
 
@@ -23,9 +23,9 @@
 ### 四元数
 
 [参考](https://www.3dgep.com/understanding-quaternions/#Introduction)
-![]()
+
 四元数顾名思义，就是使用四个维度来表示一个空间角的旋转。使用Hamilton算子来表示为：
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]https://github.com/RavenLeeANU/MotionMotionGO/blob/main/Images/quar.png)
 
 #### 四元数如何表示旋转
 使用四元数乘积可以表示旋转或者伸缩，即在一个高维度的空间来表示三维的旋转。实际计算的时候使用 一组共轭的四元数来限制输入和输出的维度一致。
