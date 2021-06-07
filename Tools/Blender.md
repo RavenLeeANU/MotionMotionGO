@@ -29,6 +29,7 @@
 - Faceit 用来Rig人脸，做Blendshape的key，使用简单，付费。
 - Rigify 用来Rig和绑定骨骼，免费。
 - Better FBX 支持导出/导入fbx，能够大大减少材质丢失，读不进来的问题。
+- Wiggle Bones 支持将骨骼绑定物理运动模拟，可以制作出头发，裙子摆动效果
 
 #### 教程
 - [Rig Anime风格](https://www.youtube.com/watch?v=G2orwhrl4VU&t=21s) 包含了头发物理模拟方法。
