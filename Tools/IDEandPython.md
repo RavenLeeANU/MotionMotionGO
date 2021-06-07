@@ -1,6 +1,7 @@
 Pycharm
 
 设置自动换行：setting + wraps
+全局查找 按两下shift
 
 Python
 
