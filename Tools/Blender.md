@@ -24,19 +24,24 @@
 拖动窗体四个角，可以直接拖出来一个新的窗口。放回去也是相同操作。
 
 
+
 #### 插件
 - [插件下载](http://www.gfxcamp.com/)
+
 - Faceit 用来Rig人脸，做Blendshape的key，使用简单，付费。
+
 - Rigify 用来Rig和绑定骨骼，免费。
+
 - Better FBX 支持导出/导入fbx，能够大大减少材质丢失，读不进来的问题。
+
 - Wiggle Bones 支持将骨骼绑定物理运动模拟，可以制作出头发，裙子摆动效果
 
 #### 教程
 - [Rig Anime风格](https://www.youtube.com/watch?v=G2orwhrl4VU&t=21s) 包含了头发物理模拟方法。
+- [法线贴图烘焙](https://blog.csdn.net/danad/article/details/108238002) 高模型套低模型，低模型可以通过减面获得
 
 #### 其他
 1. 使用Faceit导入UE4中人物骨骼都是零件的问题：需要将模型的object都组合起来，否则导出的就都是零件。并且在合并的时候确保动画都是正常显示的。如果显示不正常则调整合并的顺序使得动画别被合并掉了。
 2. blend工程导入的文件不能有中文路径，否则就没法正常导入导出
 3. fbx导出的时候使用better fbx能够有效防止材质丢失的问题
 4. blender的工程文件换了路径 材质都丢失了？
-
