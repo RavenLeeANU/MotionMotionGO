@@ -20,3 +20,5 @@ PBR有两种主要的工作流
 分别是：顶点数据的输入、顶点着色器、曲面细分过程、几何着色器、图元组装、裁剪剔除、光栅化、片段着色器以及混合测试
 
 广泛使用：Linear BS，缺点，会出现Skin collapse, Candy wrapper artifacts等现象
+
+使用PBS(Physical based simulation)去做animation等应用
