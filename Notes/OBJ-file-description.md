@@ -1,5 +1,5 @@
 顶点数据(Vertex data)：
-v 几何体顶点 (Geometric vertices)
+```v 几何体顶点 (Geometric vertices)
 vt 贴图坐标点 (Texture vertices)
 vn 顶点法线 (Vertex normals)
 vp 参数空格顶点 (Parameter space vertices)
@@ -29,4 +29,4 @@ g 组名称 (Group name)
 s 光滑组 (Smoothing group)
 mg 合并组 (Merging group)
 o 对象名称 (Object name)
-
+```
