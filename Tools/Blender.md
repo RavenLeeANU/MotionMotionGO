@@ -38,10 +38,15 @@
 
 #### 教程
 - [Rig Anime风格](https://www.youtube.com/watch?v=G2orwhrl4VU&t=21s) 包含了头发物理模拟方法。
-- [法线贴图烘焙](https://blog.csdn.net/danad/article/details/108238002) 高模型套低模型，低模型可以通过减面获得
+- [法线贴图烘焙](https://blog.csdn.net/danad/article/details/108238002) 高模型套低模型，低模型可以通过减面获得。
+- [烘焙UV](https://www.bilibili.com/video/BV1y64y1c743?from=search&seid=13011383412069161005)：用来合成多张贴图，把高模的渲染效果烘焙到低模上。
+- [烘焙UV2](https://www.bilibili.com/video/BV1Uy4y127pv?from=search&seid=10464612612721417026)用来合成多张贴图，把高模的渲染效果烘焙到低模上。
 
 #### 其他
 1. 使用Faceit导入UE4中人物骨骼都是零件的问题：需要将模型的object都组合起来，否则导出的就都是零件。并且在合并的时候确保动画都是正常显示的。如果显示不正常则调整合并的顺序使得动画别被合并掉了。
 2. blend工程导入的文件不能有中文路径，否则就没法正常导入导出
 3. fbx导出的时候使用better fbx能够有效防止材质丢失的问题
 4. blender的工程文件换了路径 材质都丢失了？
+
+
+
