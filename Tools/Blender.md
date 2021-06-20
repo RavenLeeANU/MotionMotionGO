@@ -42,6 +42,8 @@
 - [Rig Anime风格](https://www.youtube.com/watch?v=G2orwhrl4VU&t=21s) 包含了头发物理模拟方法。
 - [法线贴图烘焙](https://blog.csdn.net/danad/article/details/108238002) 高模型套低模型，低模型可以通过减面获得。
 - [烘焙UV](https://www.bilibili.com/video/BV1y64y1c743?from=search&seid=13011383412069161005)：用来合成多张贴图，把高模的渲染效果烘焙到低模上。
+  - 要点：1.注意烘焙的时候模型的显示要选中原始的显示正常的贴图，但是选择要选在待烘焙的UVmap上面。
+  - 2.要在每个原始的材质球里都放一个要渲染的贴图的Image Texture节点，不用链接但是要有，也不要复制别的节点把贴图改成待渲染的，否则渲染的时候uv坐标容易出现混乱。
 - [烘焙UV2](https://www.bilibili.com/video/BV1Uy4y127pv?from=search&seid=10464612612721417026)用来合成多张贴图，把高模的渲染效果烘焙到低模上。
 
 #### 其他
