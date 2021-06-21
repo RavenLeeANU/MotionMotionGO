@@ -29,8 +29,11 @@
 * P2P-Net [repo](https://github.com/kangxue/P2P-NET)
 * Neural Skinning [demo](https://github.com/FuxiCV/NeuroSkinning)
 * Neural Kinematic Networks for Unsupervised Motion Retargetting [repo](https://github.com/rubenvillegas/cvpr2018nkn/)
+* PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization[repo](https://shunsukesaito.github.io/PIFu/)
+* SubdivNet [repo](https://github.com/lzhengning/SubdivNet)
 
 ### 笔记和总结
+
 
 ### 资源获取
 
