@@ -14,11 +14,11 @@ var add = (function () {
 
 ### 事件
 
-常见时间
-onclick
-onmouseover
-onload
-onchange
+常见事件
+- onclick
+- onmouseover
+- onload
+- onchange
 
 
 定时执行事件
