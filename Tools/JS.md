@@ -29,4 +29,11 @@ clearInterval(myVar)
 
 ### 同步与异步
 
+```
 setTimeout(foo,2000) //等待2000ms执行foo
+```
+
+### 生命周期
+- 创建之后一直存在。
+- 当不再引用的时候null，undefined时候成为垃圾对象，被回收。
+
