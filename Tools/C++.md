@@ -176,3 +176,8 @@ MFC与Opencv合用基础
 –	cv::String和CString互转[方案](https://blog.csdn.net/u011555996/article/details/97046315)
 开始一个MFC
 –	[创建](https://nprogram.hatenablog.com/entry/2017/06/12/122402)
+    
+    
+### 符号
+：放在函数后面用于初始化    
+ 
