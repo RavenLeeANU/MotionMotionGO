@@ -10,6 +10,7 @@
 
 * blender python api
   - 下载blender 然后安装 ```pip install bpy``` 
+  - pip install future-fstrings
   - 文档[API](https://docs.blender.org/api/current/index.html)
 * Open3D 
   - 下载[release](https://github.com/intel-isl/Open3D/releases)版本，注意不要用PyPi直接install，版本太低了会无法导入obj文件。
