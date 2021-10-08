@@ -12,6 +12,7 @@ Asset Container
 
 
 ### 动画
+[VAT制作](https://forum.babylonjs.com/t/vertex-animation-textures/6325/8)
 
 ### UI
 
@@ -33,6 +34,8 @@ Asset Container
 [编译工具EMSDK](https://emcc.zcopy.site/docs/tools_reference/emsdk/)
 
 [wasm](https://www.wasm.com.cn/)
+
+
 
 
 ### 调用其他语言代码相关
