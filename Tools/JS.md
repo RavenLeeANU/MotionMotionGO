@@ -93,3 +93,8 @@ https://www.cnblogs.com/litsword/archive/2010/07/22/1782933.html
 [typedoc生成api文档](https://www.jianshu.com/p/d6b96965c16b)
 
 ### indexDB
+
+
+### 接口、类，泛型
+
+https://segmentfault.com/a/1190000014121295
