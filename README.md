@@ -34,7 +34,7 @@
 * SubdivNet [repo](https://github.com/lzhengning/SubdivNet)
 
 ### 笔记和总结
-
+- AGI & AIGC 相关
 
 ### 资源获取
 
